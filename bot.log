@@ -1,0 +1,77 @@
+2024-04-25T11:43:39.154Z - Echo Bot loaded
+2024-04-25T11:43:39.158Z - Using source file: codes_test.txt
+2024-04-25T11:43:39.445Z - commanddeployer.js exited with code 0
+2024-04-25T11:47:59.622Z - Echo Bot loaded
+2024-04-25T11:47:59.625Z - Using source file: codes_test.txt
+2024-04-25T11:47:59.910Z - commanddeployer.js exited with code 0
+2024-04-25T11:48:21.468Z - Command used by orb.ism: echocode
+2024-04-25T11:48:21.612Z - Code provided to orb.ism: test1
+2024-04-25T11:49:08.990Z - Echo Bot loaded
+2024-04-25T11:49:08.992Z - Using source file: codes_test.txt
+2024-04-25T11:49:09.287Z - commanddeployer.js exited with code 0
+2024-04-25T11:49:27.258Z - No reset needed for user ID: 832712427690000397
+2024-04-25T11:49:33.682Z - Command used by orb.ism: echocode
+2024-04-25T11:49:33.814Z - Code provided to orb.ism: test2
+2024-04-25T11:49:49.814Z - Command used by orb.ism: echocode
+2024-04-25T11:49:49.953Z - Already requested by orb.ism
+2024-04-25T12:05:47.328Z - Echo Bot loaded
+2024-04-25T12:05:47.331Z - Using source file: codes_test.txt
+2024-04-25T12:05:47.680Z - commanddeployer.js exited with code 0
+2024-04-25T12:06:02.090Z - Command used by orb.ism: echocode
+2024-04-25T12:06:38.519Z - Echo Bot loaded
+2024-04-25T12:06:38.523Z - Using source file: codes_test.txt
+2024-04-25T12:06:38.798Z - commanddeployer.js exited with code 0
+2024-04-25T12:06:43.164Z - Command used by orb.ism: echocode
+2024-04-25T12:07:02.259Z - Echo Bot loaded
+2024-04-25T12:07:02.261Z - Using source file: codes_test.txt
+2024-04-25T12:07:02.544Z - commanddeployer.js exited with code 0
+2024-04-25T12:07:08.629Z - Command used by orb.ism: echocode
+2024-04-25T12:07:08.790Z - Code provided to orb.ism: test1
+2024-04-25T12:07:17.206Z - Command used by orb.ism: echocode
+2024-04-25T12:07:17.413Z - Code provided to orb.ism: test2
+2024-04-25T12:11:18.296Z - Echo Bot loaded
+2024-04-25T12:11:18.299Z - Using source file: codes_test.txt
+2024-04-25T12:11:18.561Z - commanddeployer.js exited with code 0
+2024-04-25T12:11:25.350Z - Command used by orb.ism: echocode
+2024-04-25T12:11:25.524Z - Code provided to orb.ism: test1
+2024-04-25T12:11:36.569Z - Command used by orb.ism: echocode
+2024-04-25T12:11:36.721Z - Already issued to orb.ism: test1
+2024-04-25T12:14:15.407Z - Reset performed for user ID: 832712427690000397
+2024-04-25T12:15:34.306Z - Echo Bot loaded
+2024-04-25T12:15:34.309Z - Using source file: codes_test.txt
+2024-04-25T12:15:34.605Z - commanddeployer.js exited with code 0
+2024-04-25T12:15:39.081Z - Command used by orb.ism: echocode
+2024-04-25T12:17:28.000Z - Echo Bot loaded
+2024-04-25T12:17:28.002Z - Using source file: codes_test.txt
+2024-04-25T12:17:28.287Z - commanddeployer.js exited with code 0
+2024-04-25T12:17:34.763Z - Command used by orb.ism: echocode
+2024-04-25T12:18:00.614Z - Echo Bot loaded
+2024-04-25T12:18:00.616Z - Using source file: codes_test.txt
+2024-04-25T12:18:00.886Z - commanddeployer.js exited with code 0
+2024-04-25T12:18:05.745Z - Command used by orb.ism: echocode
+2024-04-25T12:18:05.915Z - Code provided to orb.ism: test2
+2024-04-25T12:18:11.102Z - Command used by orb.ism: echocode
+2024-04-25T12:18:11.246Z - Already issued to orb.ism: [object Object]
+2024-04-25T12:20:30.098Z - Echo Bot loaded
+2024-04-25T12:20:30.100Z - Using source file: codes_test.txt
+2024-04-25T12:20:30.361Z - commanddeployer.js exited with code 0
+2024-04-25T12:20:35.408Z - Command used by orb.ism: echocode
+2024-04-25T12:20:35.565Z - Already issued to orb.ism: [object Object]
+2024-04-25T12:29:13.131Z - Echo Bot loaded
+2024-04-25T12:29:13.135Z - Using source file: codes_test.txt
+2024-04-25T12:29:13.418Z - commanddeployer.js exited with code 0
+2024-04-25T12:29:39.462Z - Echo Bot loaded
+2024-04-25T12:29:39.464Z - Using source file: codes_test.txt
+2024-04-25T12:29:39.797Z - commanddeployer.js exited with code 0
+2024-04-25T12:32:05.353Z - Echo Bot loaded
+2024-04-25T12:32:05.356Z - Using source file: codes_test.txt
+2024-04-25T12:32:05.617Z - commanddeployer.js exited with code 0
+2024-04-25T12:32:43.385Z - Echo Bot loaded
+2024-04-25T12:32:43.388Z - Using source file: codes_test.txt
+2024-04-25T12:32:43.721Z - commanddeployer.js exited with code 0
+2024-04-25T12:33:17.047Z - Echo Bot loaded
+2024-04-25T12:33:17.050Z - Using source file: codes_test.txt
+2024-04-25T12:33:17.094Z - commanddeployer.js exited with code 1
+2024-04-25T12:33:27.764Z - Echo Bot loaded
+2024-04-25T12:33:27.767Z - Using source file: codes_test.txt
+2024-04-25T12:33:28.110Z - commanddeployer.js exited with code 0
